@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\API\\CityApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\services\\homesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:services\\homesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\models\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:models\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\models\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:models\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\models\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:models\\resident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|d:\\programming\\api\\cityapi\\dtos\\apartmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C9B1AE-C30B-4400-857F-9561E01C72B1}|CityApi.csproj|solutionrelative:dtos\\apartmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Models\\UserAuth.cs",
+              "RelativeDocumentMoniker": "Models\\UserAuth.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Models\\UserAuth.cs",
+              "RelativeToolTip": "Models\\UserAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:35:59.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resident.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Models\\Resident.cs",
+              "RelativeDocumentMoniker": "Models\\Resident.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Models\\Resident.cs",
+              "RelativeToolTip": "Models\\Resident.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:35:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:35:57.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Models\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Models\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Models\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Models\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:32:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApartmentsController.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Controllers\\ApartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApartmentsController.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Controllers\\ApartmentsController.cs",
+              "RelativeToolTip": "Controllers\\ApartmentsController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:32:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityDBContext.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Data\\CityDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\CityDBContext.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Data\\CityDBContext.cs",
+              "RelativeToolTip": "Data\\CityDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:31:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApartmentDtos.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Dtos\\ApartmentDtos.cs",
+              "RelativeDocumentMoniker": "Dtos\\ApartmentDtos.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Dtos\\ApartmentDtos.cs",
+              "RelativeToolTip": "Dtos\\ApartmentDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:31:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomesService.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Services\\HomesService.cs",
+              "RelativeDocumentMoniker": "Services\\HomesService.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Services\\HomesService.cs",
+              "RelativeToolTip": "Services\\HomesService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T18:31:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\API\\CityApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programming\\API\\CityApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:15:46.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
